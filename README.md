@@ -1,5 +1,5 @@
 # About Me
-I am a teenager making various CS Projects. I have put all the ones I'm not at all interested in trying to make money from here on GitHub so other people can get some understanding on what I've been working on. I'm also using github to also to back some stuff up in case my PC explodes.
+I am a teenager making various CS Projects. I have put all the ones I'm not at all interested in trying to make money from and are small enough here on GitHub. I'm also using GitHub to also to back some stuff up in case my PC explodes. The projects in the list below and the ones that are public have been made over a period of many years. The dates for commits are probably nowhere near when they were actually made.
 
 ## Projects not published on GitHub
 * Somewhat polished / actually good projects
